@@ -21,6 +21,9 @@
 title: Mckel Ferrol
 email: mckelferrol9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
   Posts blogs and updates about Creat Caribbean.
 baseurl: "/mfjekyll" # the subpath of your site, e.g. /blog
 url: "https://mferrol.github.io/mfjekyll/" # the base hostname & protocol for your site, e.g. http://example.com
