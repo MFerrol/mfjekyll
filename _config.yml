@@ -21,7 +21,7 @@
 title: Mckel Ferrol
 email: mckelferrol9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Posts blogs and updates about Creat Caribbean
+  Posts blogs and updates about Creat Caribbean.
 baseurl: "/mfjekyll" # the subpath of your site, e.g. /blog
 url: "https://mferrol.github.io/mfjekyll/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Mcmasker
