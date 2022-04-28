@@ -1,5 +1,5 @@
 ---
 layout: postdefault
-title: "Posts"
-permalink: /post/
+title: Posts
+permalink: /posts/
 ---
