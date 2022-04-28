@@ -18,7 +18,3 @@ title: "Visualizing Caribbean Literary Encounters: Progress Report 2"
 <!-- wp:paragraph -->
 <p><br>In general, I'm learning a lot from my search for books written by Caribbean authors, my research skills are improving and I'm becoming more and more interested in the world of literature.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Word Count: 325</p>
-<!-- /wp:paragraph -->

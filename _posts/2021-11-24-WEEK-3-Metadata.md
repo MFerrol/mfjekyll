@@ -34,7 +34,3 @@ title: "WEEK 3: Metadata"
 <!-- wp:paragraph -->
 <p>In week 3 I also learned about a new useful tool called Zotero. Zotero is a tool used to collect, cite, organize and share information from different forms of sources. These sources can include journal articles, books, newspaper articles, audio recordings, and much more. Miss Espirit told us how she has been using Zotero for years because of how useful it can be and with my experience with the tool for the past few days I can see why she said it was very helpful throughout her time using Zotero in Create Caribbean and her general life. I was a bit confused at first when miss explained Zotero to the class but as I got to use it, it became much easier. This tool is very useful and I surely plan on using it in the future.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Word count: 423</p>
-<!-- /wp:paragraph -->

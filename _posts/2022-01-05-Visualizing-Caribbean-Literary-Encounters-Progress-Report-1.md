@@ -18,7 +18,3 @@ title: "Visualizing Caribbean Literary Encounters: Progress Report 1"
 <!-- wp:paragraph -->
 <p><br>Zotero has also been a big help with its having a browser extension in which the user can save a book or article by clicking a button and Zotero enters all the necessary information about that book in an organized format.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Word Count: 344</p>
-<!-- /wp:paragraph -->

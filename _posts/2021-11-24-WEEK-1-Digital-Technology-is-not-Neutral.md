@@ -26,7 +26,3 @@ title:  "WEEK 1: Digital Technology is not Neutral"
 <!-- wp:paragraph -->
 <p><br>This shows us that there are people who are willing to stop racism and even take up Noble's ideas.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><br>Word count: 417</p>
-<!-- /wp:paragraph -->

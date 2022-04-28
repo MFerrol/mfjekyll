@@ -14,5 +14,3 @@ As said earlier digital humanities are meant to be in collaboration with several
 "Please Write it Down: Design and Research in Digital Humanities" talk about how digital humanist needs to write what they discover when working on a project and what they learned as a result of reflecting on that project. I believe this to be very true to not only digital humanists but to everyone in whatever field of work they are involved in. It is a very important thing to reflect on what you had done and the process you went through to get to the end product of your project or whatever you could be doing. Furthermore, it can also be a very good way of knowing what can be done to make the process of working on a project easier but also to know how a project can be enhanced in any way. 
 
 These two readings have shown me that Digital Humanities has a lot more to it than I originally thought. 
-
-Word count: 509
