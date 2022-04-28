@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Semester 2 Week 3: Intern Review"
+title: "Semester 2 Week 3: Progress Report"
 ---
 
 Going into a new school term/semester it’s always hard for me to adjust from the holidays to going back to not-so-exciting school work. However, being with Create Caribbean has made that easy this semester. Working with the spreadsheet and seeing all the different tools we can work with has been quite enjoyable.
