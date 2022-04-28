@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-![Luam](https://i0.wp.com/createcaribbean.org/create/wp-content/uploads/2022/04/IMG_5977-scaled.jpg?resize=1153%2C1536&ssl=1)
