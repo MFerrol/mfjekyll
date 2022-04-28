@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Semester 2 Week 3: Intern Review"
+---
+
+Going into a new school term/semester it’s always hard for me to adjust from the holidays to going back to not-so-exciting school work. However, being with Create Caribbean has made that easy this semester. Working with the spreadsheet and seeing all the different tools we can work with has been quite enjoyable.
+
+At the start of January 11, Ms. Esprit had put all of the books, we had gathered, from Zotero and inserted them into a spreadsheet. When I heard she was doing this I just knew what she was about to make us do and my hunch was correct. She assigned each intern to a column in the spreadsheet for us to make sure the information was correct and in order. I was assigned in finding Wikipedia pages of all the books and authors in the spreadsheet. I thought that just finding Wikipedia pages wasn’t going to be too hard but then when I saw that there were more than 4000 entries in the spreadsheet, I thought to myself that I was never going to get this done. However, I just took baby steps doing 1 book at a time, and said to myself that I can get through this and it will be completed in due time. It’s just like the saying 1 brick at a time.
+
+It started slowly where I was only doing like 50 – 80 Wikipedia entries every 2 hours. I thought this was the fastest I could go, but as I started to get a good rhythm, I was able to do up to 200 entries every 2 hours. After 10 hours during the week and I say how many entries I got done I was surprised I was able to do so many, though I still needed to double-check some of the entries just to make sure I was getting them correctly. I never would have guessed that finding Wikipedia pages could be such a chore, but I am getting through them and this week I have completed over 3100 of them. I believe that in just 1 more week I will be done with this column of the spreadsheet.
+
+Additionally, Ms. Esprit had started three teams within the interns of Create Caribbean, the Tech Team, the Gio Team, and the Research Team. These teams are to help to make some interns specialize in some parts of the project. Ms. Esprit said that she will assign the Tech Team work soon and I’m looking forward to seeing what she gives us to do. 
