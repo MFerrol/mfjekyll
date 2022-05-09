@@ -1,0 +1,12 @@
+---
+layout: page
+title: Semester 2 Week 4 Spatial Trun
+---
+
+Now you may be asking, “What is The Spatial Turn?”. When I hear the phrase “spatial turn” I think of some kind of turn in space in any direction. Although my thought on “spatial turn” is not wrong, the article by Jo Guldi, referrers to “spatial turn” as well as “landscape turns” as to GIS technologies and the neogeography revolution that puts the art of mapping the hands of even high school students. He also states that “turning” is a back glance at the origins of how things came to be in today’s world. 
+
+According to Jo Guldi's article, in the 1840s western Europe was discussing land reforms that pitted the new stewards of the expert-led bureaucracy against traditional communities and their intellectual spokespeople. Then in the 1880s legal scholars, archaeologists and historians were absorbed into the history of the “commons” as some form of records about “community” that disclosed notions of collective ownership. Some public intellectuals went through documents, proposed theories of spatial experience, and promoted the terminology of “commons”, “palimpsest,” and “pseudoenvironment,” attempting to coin a universal language for describing spatial experience and its artificial manipulation.
+
+These languages began the process of convergence after 1970, by the importation of French theory, which newly emphasized the power relations implicit in the landscape under general headings like “abstract space”, place, and “symbolic place,” interpreted through new spatial metaphors like “panopticism.” And in other fields, this vocabulary came to mean different things, but these spatial impulses took a deeper hold with the influx of digital tools. With the creation of GIS, scholars could speak of spatial problems and asked questions in the disciplines. GIS also opened up other questions to address problems on a greater scale like the complete transition to renewable energy. 
+
+Finally, Jo Guldi said at the end of his articles by reviewing the period of spatial emergence in the past can help us understand the imprint of these questions like nations and their boundaries, states and surveillance, private property, and the perception of the landscape. Also, the direction that interdisciplinary collaboration may take in the spatial era of GIS. I totally agree with this statement because from all that I have read and understood the spatial turn represents the impulse where new tools are put against old questions.   
